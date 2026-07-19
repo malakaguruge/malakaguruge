@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malakaguruge/malakaguruge/main/minecraft-banner.webp" alt="Minecraft Banner" style="width: 100%; height: 250px; object-fit: cover; object-position: center; display: block;" />
-</p>
+  <div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" style="background: black;">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/malakaguruge/malakaguruge/main/minecraft-banner.webp" width="100%" alt="Minecraft Banner" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
