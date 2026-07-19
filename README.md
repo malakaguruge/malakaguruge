@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./minecraft-banner.webp" width="100%" />
+  <img src="./banner-compressed.webp" width="100%" />
 </p>
 
 <br>
